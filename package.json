@@ -1,0 +1,22 @@
+{
+  "name": "playwrightaugust2026weekdaysbatchfw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nishant Goel",
+  "license": "ISC",
+  "description": "This is my PW August WeekDays 2026 Batch Fraemwrok Creation",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.13.0",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.7",
+    "xlsx": "^0.18.5"
+  }
+}

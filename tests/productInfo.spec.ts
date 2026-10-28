@@ -34,7 +34,7 @@ test("Verify Product Infomation Test", async({homePage, searchResultsPage, produ
 })
 
 // Common Functionality test
-test("Verify Common Logo Test", async({productInfoPage})=>
+test("Verify Common Logo Test @sanity", async({productInfoPage})=>
 {
 
    let isVisible=await productInfoPage.isLogoVisible();

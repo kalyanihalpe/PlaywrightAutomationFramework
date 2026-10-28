@@ -9,7 +9,7 @@ test.beforeEach(async ({loginPage})=>
     
 })
 
-test("Login Page Title Test", async({loginPage})=>
+test("Login Page Title Test @sanity", async({loginPage})=>
 {
     let title=await loginPage.getLoginPageTitle();
     expect(title).toBe("Account Login");
@@ -21,7 +21,7 @@ test("Forgot Password Link Exist Test", async({loginPage})=>
     expect(isForgotPwdLinkAvailable).toBe(true);
 })
 
-test("user Doing the Actual Login Test", async({loginPage,homePage})=>
+test("user Doing the Actual Login Test @sanity", async({loginPage,homePage})=>
 {
    await loginPage.doLogin(process.env.USER_NAME!,process.env.PASSWORD!);
 

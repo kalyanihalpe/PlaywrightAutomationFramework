@@ -26,7 +26,7 @@ export class SearchResultsPage extends BasePage
 
     async selectAndClickOnProduct(productName:string):Promise<void>
     {
-        let productLocator:Locator=this.page.locator(`(//a[text()="${productName}"])[2]`);
+        let productLocator:Locator=this.page.locator(`//a[text()="${productName}"]`);
         console.log(`Clicking on the product with name : ${productName}`);
         await productLocator.click();
     

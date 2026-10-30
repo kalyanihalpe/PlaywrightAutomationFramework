@@ -1,0 +1,107 @@
+APIResponse: 200 OK
+  Date: Fri, 30 Oct 2026 10:04:19 GMT
+  Content-Type: application/json; charset=utf-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Cache-Control: max-age=0, private, must-revalidate
+  content-security-policy-report-only: default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-TFisLZsZpoVbEGIw0COZ1Q=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  etag: W/"7fa5b05a02eb73889b374abfb1c4d019"
+  feature-policy: camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'
+  referrer-policy: strict-origin-when-cross-origin
+  strict-transport-security: max-age=63072000; includeSubDomains
+  vary: Origin
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-links-current: https://gorest.co.in/public/v2/users?page=1
+  x-links-next: https://gorest.co.in/public/v2/users?page=2
+  x-links-previous: 
+  x-pagination-limit: 10
+  x-pagination-page: 1
+  x-pagination-pages: 310
+  x-pagination-total: 3093
+  x-permitted-cross-domain-policies: none
+  x-ratelimit-limit: 300
+  x-ratelimit-remaining: 299
+  x-ratelimit-reset: 0
+  x-xss-protection: 0
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tCZqbrh%2FWBIdp16qWrQ6b8OEHf8phaxwrL0nH4Vjb0Ak22aeuni17vM07xVsDDpKx3eYLEX2HYXOGNI3EcEwDoBpUgdUlK5O9n58pyZ3TgwajzVBXa%2F%2FTCzUYZ2HvTw%3D"}]}
+  Content-Encoding: br
+  Server: cloudflare
+  CF-RAY: a529985e0c32d6e9-IAD
+  alt-svc: h3=":443"; ma=86400
+[
+  {
+    id: 8691193,
+    name: 'Nishant Automation',
+    email: 'nltech1793258535081@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691167,
+    name: 'Nishant Automation',
+    email: 'nltech1793254520805@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691165,
+    name: 'Nishant Automation',
+    email: 'nltech1793254435443@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691162,
+    name: 'Nishant Automation',
+    email: 'nltech1793254277669@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691158,
+    name: 'Nishant Automation',
+    email: 'nltech1793253937870@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691142,
+    name: 'Nishant Automation',
+    email: 'nltech1793253598807@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691140,
+    name: 'Nishant Automation',
+    email: 'nltech1793253401571@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691133,
+    name: 'Nishant Automation',
+    email: 'nltech1793252820117@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8691117,
+    name: 'Nishant Automation',
+    email: 'nltech1793251743532@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8690988,
+    name: 'Nishant Automation',
+    email: 'nltech1793243450876@gmail.com',
+    gender: 'male',
+    status: 'active'
+  }
+]
+Response Code is : 200
+Response Message is : OK

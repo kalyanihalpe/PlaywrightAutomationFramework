@@ -1,0 +1,35 @@
+APIResponse: 201 Created
+  Date: Fri, 30 Oct 2026 10:04:20 GMT
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 116
+  Connection: keep-alive
+  Cache-Control: max-age=0, private, must-revalidate
+  content-security-policy-report-only: default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-eRBlrrWeWVJQz0Z0cyNb0g=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  etag: W/"0ace4d4c6076c9ea743746f0b3d5754a"
+  feature-policy: camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'
+  location: https://gorest.co.in/public/v2/users/8693177
+  referrer-policy: strict-origin-when-cross-origin
+  strict-transport-security: max-age=63072000; includeSubDomains
+  vary: Origin
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-permitted-cross-domain-policies: none
+  x-ratelimit-limit: 300
+  x-ratelimit-remaining: 299
+  x-ratelimit-reset: 0
+  x-xss-protection: 0
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3ug7nqkZHyB%2BtMKVjKKkG7Ot%2BktkRbtb5FUhvHY3%2FZ%2B5V4SM%2BlqUT0SzL%2Btrp88ab8C9oKL%2BnWAHC7nGqnoJsGBQJg%2FB7ppQo4Uq2cLu1hSYTv4i3QPPfq4p9OTlbm0%3D"}]}
+  Server: cloudflare
+  CF-RAY: a52998604cf3d6e1-IAD
+  alt-svc: h3=":443"; ma=86400
+{
+  id: 8693177,
+  name: 'Nishant Automation',
+  email: 'nltech1793354659871@gmail.com',
+  gender: 'male',
+  status: 'active'
+}
+Response Code is : 201
+Response Message is : Created
